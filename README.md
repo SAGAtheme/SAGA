@@ -1,10 +1,8 @@
 <h2 align="center">
-	SAGA
+	SAGA </br>
+	
 </h2> 
-
-**SAGA**  </br>
-Dark theme with colourful shades of pastel
-
+<h4 align="center">A dark theme with colourful shades of pastel </br> </h4> </br> </br>
 
 
 |                                                                         | NAME     | HEX       | RGB             | HSL             | CMYK               |  
@@ -25,3 +23,5 @@ Dark theme with colourful shades of pastel
 | ![#F8F5F2](https://via.placeholder.com/30/F8F5F2/000000?text=+)   | Isabelline  | `#F8F5F2` | `248,245,242` | `30,30%,96.1%`  | `0,1,2,3`  |
 | ![#FAF8F6](https://via.placeholder.com/30/FAF8F6/000000?text=+)    | Cultured  | `#FAF8F6` | `250,248,246` | `30,28.6%,97.3%` | `0,1,2,2` |
 | ![#FFFFFE](https://via.placeholder.com/30/FFFFFE/000000?text=+)     | White   | `#FFFFFE` | `255,255,254` | `60,100%,99.8%` | `0,0,0,0`  |
+
+	
