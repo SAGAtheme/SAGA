@@ -1,6 +1,5 @@
 <h2 align="center">
 	SAGA </br>
-	![Screenshot](./palette.png)
 	
 </h2> 
 <h4 align="center">A dark theme with colourful shades of pastel </br> </h4> </br> </br>
