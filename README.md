@@ -17,7 +17,7 @@
 | ![#FFFAAD](https://via.placeholder.com/30/FFFAAD/000000?text=+)   | Lemon Yellow Crayola | `#FFFAAD` | `255,250,173` | `56.3,100%,83.9%` | `0,2,32,0)` |
 | ![#FAC898](https://via.placeholder.com/30/FAC898/000000?text=+)   | Peach Crayola | `#FAC898` | `250,200,152` | `29.4,90.7%,78.8%` | `0,20,39,2` |
 | ![#A0E7E5](https://via.placeholder.com/30/A0E7E5/000000?text=+)     | Tiffany Blue      | `#A0E7E5` | `160,231,229` | `178.3,59.7%,76.7%` | `31,0,1,9` |
-| ![#BCA7DD](https://via.placeholder.com/30/BCA7DD/000000?text=+)     | Tiffany Blue      | `#BCA7DD` | `188,167,221` | `(263.3,44.3%,76.1%` | `15,24,0,13` |
+| ![#BCA7DD](https://via.placeholder.com/30/BCA7DD/000000?text=+)     | Wisteria      | `#BCA7DD` | `188,167,221` | `(263.3,44.3%,76.1%` | `15,24,0,13` |
 | ![#D2C5E8](https://via.placeholder.com/30/D2C5E8/000000?text=+)    | Thistle   | `#D2C5E8` | `210,197,232` | `262.3,43.2%,84.1%`  | `9,15,0,9` |
 | ![#F4F0F9](https://via.placeholder.com/30/F4F0F9/000000?text=+)    | Magnolia   | `#F4F0F9` | `244,240,249` | `266.7,42.9%,95.9%`  | `2,4,0,2` |
 | ![#F8F5F2](https://via.placeholder.com/30/F8F5F2/000000?text=+)   | Isabelline  | `#F8F5F2` | `248,245,242` | `30,30%,96.1%`  | `0,1,2,3`  |
