@@ -2,8 +2,8 @@
 	SAGA </br>
 	
 </h2> 
-<h4 align="center">A dark theme with colourful shades of pastel </br> </h4> </br> </br>
-
+<h4 align="center">A dark theme with colourful shades of pastel </br> </h4> </br>
+<div align="center">
 
 |                                                                         | NAME     | HEX       | RGB             | HSL             | CMYK               |  
 | ----------------------------------------------------------------------- | -------- | --------- | --------------- | --------------- | ------------------ |
@@ -24,7 +24,8 @@
 | ![#FAF8F6](https://via.placeholder.com/30/FAF8F6/000000?text=+)    | Cultured  | `#FAF8F6` | `250,248,246` | `30,28.6%,97.3%` | `0,1,2,2` |
 | ![#FFFFFE](https://via.placeholder.com/30/FFFFFE/000000?text=+)     | White   | `#FFFFFE` | `255,255,254` | `60,100%,99.8%` | `0,0,0,0`  |
 
-	
+</div>	
+
 ### Notes
 This theme is a small personal project of mine. I will continue to add theme templates for applications I find useful however there are no plans to expand it further than that. If you want to create and share a theme using the SAGA palette for an application that does not yet have one you can submit a [PR](https://github.com/SAGAtheme/SAGA/pulls). 
 
