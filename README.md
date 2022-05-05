@@ -7,22 +7,22 @@
 
 |                                                                         | NAME     | HEX       | RGB             | HSL             | CMYK               |  
 | ----------------------------------------------------------------------- | -------- | --------- | --------------- | --------------- | ------------------ |
-| ![#0A0D0F](https://via.placeholder.com/30/0A0D0F/000000?text=+)      | Black Fogra 39    | `#0A0D0F` | `10,13,15` | `204,20%,4.9%` | `33,13,0,94`  |
-| ![#101519](https://via.placeholder.com/30/101519/000000?text=+)    | Black Fogra 29 | `#101519` | `16,21,25`    | `206.7,22%,8%`  | `36,16,0,90` |
-| ![#181F25](https://via.placeholder.com/30/181F25/000000?text=+)    |  Eerie Black| `#181F25` | `24,31,37`    | `207.7,21.3%,12%`  | `35,16,0,85` |
-| ![#202931](https://via.placeholder.com/30/202931/000000?text=+)      |  Gunmetal | `#202931` | `32,41,49` | `208.2,21%,15.9%`   | `35,16,0,81` |
-| ![#FFAEBC](https://via.placeholder.com/30/FFAEBC/000000?text=+)    | Hot Pink    | `#FFAEBC` | `250,248,246` | `30,28.6%,97.3%` | `0,1,2,2`  |
-| ![#FF9E99](https://via.placeholder.com/30/FF9E99/000000?text=+)    | Vivid Tangerine    | `#FF9E99` | `255,158,153` | `2.9,100%,80%` | `0,38,40,0`  |
-| ![#B4F8C8](https://via.placeholder.com/30/B4F8C8/000000?text=+)     | Magic Mint  | `#B4F8C8` | `180,248,200` | `137.6,82.9%,83.9%` | `27,0,19,3`  |
-| ![#FFFAAD](https://via.placeholder.com/30/FFFAAD/000000?text=+)   | Lemon Yellow Crayola | `#FFFAAD` | `255,250,173` | `56.3,100%,83.9%` | `0,2,32,0)` |
-| ![#FAC898](https://via.placeholder.com/30/FAC898/000000?text=+)   | Peach Crayola | `#FAC898` | `250,200,152` | `29.4,90.7%,78.8%` | `0,20,39,2` |
-| ![#A0E7E5](https://via.placeholder.com/30/A0E7E5/000000?text=+)     | Tiffany Blue      | `#A0E7E5` | `160,231,229` | `178.3,59.7%,76.7%` | `31,0,1,9` |
-| ![#BCA7DD](https://via.placeholder.com/30/BCA7DD/000000?text=+)     | Wisteria      | `#BCA7DD` | `188,167,221` | `(263.3,44.3%,76.1%` | `15,24,0,13` |
-| ![#D2C5E8](https://via.placeholder.com/30/D2C5E8/000000?text=+)    | Thistle   | `#D2C5E8` | `210,197,232` | `262.3,43.2%,84.1%`  | `9,15,0,9` |
-| ![#F4F0F9](https://via.placeholder.com/30/F4F0F9/000000?text=+)    | Magnolia   | `#F4F0F9` | `244,240,249` | `266.7,42.9%,95.9%`  | `2,4,0,2` |
-| ![#F8F5F2](https://via.placeholder.com/30/F8F5F2/000000?text=+)   | Isabelline  | `#F8F5F2` | `248,245,242` | `30,30%,96.1%`  | `0,1,2,3`  |
-| ![#FAF8F6](https://via.placeholder.com/30/FAF8F6/000000?text=+)    | Cultured  | `#FAF8F6` | `250,248,246` | `30,28.6%,97.3%` | `0,1,2,2` |
-| ![#FFFFFE](https://via.placeholder.com/30/FFFFFE/000000?text=+)     | White   | `#FFFFFE` | `255,255,254` | `60,100%,99.8%` | `0,0,0,0`  |
+| ![#0A0D0F](https://via.placeholder.com/30/0A0D0F/000000?text=+)      | C1    | `#0A0D0F` | `10,13,15` | `204,20%,4.9%` | `33,13,0,94`  |
+| ![#101519](https://via.placeholder.com/30/0f1214/000000?text=+)    | C2 | `#0f1214` | `15,18,20`    | `204,14.3%,6.9%`  | `25,10,0,92` |
+| ![#181F25](https://via.placeholder.com/30/141719/000000?text=+)    |  C3 | `#141719` | `20,23,25`    | `204,11.1%,8.8%`  | `20,8,0,90` |
+| ![#202931](https://via.placeholder.com/30/191c1e/000000?text=+)      |  C4 | `#191c1e` | `25,28,30` | `204,9.1%,10.8%`   | `17,7,0,88` |
+| ![#FFAEBC](https://via.placeholder.com/30/FFAEBC/000000?text=+)    | C5  | `#FFAEBC` | `250,248,246` | `30,28.6%,97.3%` | `0,1,2,2`  |
+| ![#FF9E99](https://via.placeholder.com/30/FF9E99/000000?text=+)    | C6    | `#FF9E99` | `255,158,153` | `2.9,100%,80%` | `0,38,40,0`  |
+| ![#B4F8C8](https://via.placeholder.com/30/B4F8C8/000000?text=+)     | C6  | `#B4F8C8` | `180,248,200` | `137.6,82.9%,83.9%` | `27,0,19,3`  |
+| ![#FFFAAD](https://via.placeholder.com/30/FFFAAD/000000?text=+)   | C7 | `#FFFAAD` | `255,250,173` | `56.3,100%,83.9%` | `0,2,32,0)` |
+| ![#FAC898](https://via.placeholder.com/30/FAC898/000000?text=+)   | C8 | `#FAC898` | `250,200,152` | `29.4,90.7%,78.8%` | `0,20,39,2` |
+| ![#A0E7E5](https://via.placeholder.com/30/A0E7E5/000000?text=+)     | C9      | `#A0E7E5` | `160,231,229` | `178.3,59.7%,76.7%` | `31,0,1,9` |
+| ![#BCA7DD](https://via.placeholder.com/30/ebdefa/000000?text=+)     | C10      | `#cdc0e3` | `205,192,227` | `262.3,38.5%,82.2%` | `10,15,0,11` |
+| ![#D2C5E8](https://via.placeholder.com/30/f0e3ff/000000?text=+)    | C11   | `#D2C5E8` | `210,197,232` | `262.3,43.2%,84.1%`  | `9,15,0,9` |
+| ![#F4F0F9](https://via.placeholder.com/30/faedff/000000?text=+)    | C12   | `#faedff` | `250,237,255` | `283.3,100%,96.5%`  | `2,7,0,0` |
+| ![#F8F5F2](https://via.placeholder.com/30/f5e8ff/000000?text=+)   | C13  | `#f5e8ff` | `245,232,255` | `273.9,100%,95.5%`  | `4,9,0,0`  |
+| ![#FAF8F6](https://via.placeholder.com/30/fff2ff/000000?text=+)    | C14  | `#fff2ff` | `255,242,255` | `300,100%,97.5%` | `0,5,0,0` |
+| ![#FFFFFE](https://via.placeholder.com/30/fffcff/000000?text=+)     | C15   | `#fffcff` | `255,252,255` | `300,100%,99.4%` | `0,1,0,0`  |
 
 </div>	
 
