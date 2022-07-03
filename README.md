@@ -27,7 +27,8 @@
 </div>	
 
 ### Notes
-This theme is a small personal project of mine. I will continue to add theme templates for applications I find useful however there are no plans to expand it further than that. If you want to create and share a theme using the SAGA palette for an application that does not yet have one you can submit a [PR](https://github.com/SAGAtheme/SAGA/pulls). 
+This theme is a small personal project of mine. I will continue to add theme templates for applications I find useful. If you want to create and share a theme using the SAGA palette for an application that does not yet have one you can submit a [PR](https://github.com/SAGAtheme/SAGA/pulls). 
 
-Available themes can be found [here](https://github.com/SAGAtheme).
+Available standalone themes can be found [here](https://github.com/SAGAtheme).
+Complete dotfile collections for various WMs can be found [here](https://github.com/SAGAtheme/Showcase). 
 
