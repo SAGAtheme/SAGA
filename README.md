@@ -42,9 +42,6 @@
 ## Showcase
 A list of complete setups using the SAGA colourscheme along with screenshots can be found [here](https://github.com/SAGAtheme/Showcase). If you want to submit your setup feel free to open a pull request or create an issue. 
 
-### Notes
-This theme is a small personal project of mine. I will continue to add theme templates for applications I find useful. If you want to create and share a theme using the SAGA palette for an application that does not yet have one you can submit a [PR](https://github.com/SAGAtheme/SAGA/pulls). 
-
-Available standalone themes can be found [here](https://github.com/SAGAtheme).
-Complete dotfile collections for various WMs can be found [here](https://github.com/SAGAtheme/Showcase). 
+## Contributing
+If you want to create or share a theme using the SAGA palette for an application that does not yet have one you can submit a [PR](https://github.com/SAGAtheme/SAGA/pulls). 
 
