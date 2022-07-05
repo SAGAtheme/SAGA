@@ -26,6 +26,22 @@
 
 </div>	
 
+### Ports
+- [NvChad](https://github.com/SAGAtheme/nvchad)
+- [Rofi](https://github.com/SAGAtheme/Rofi)
+- [Cava](https://github.com/SAGAtheme/Cava)
+- [LeftWM](https://github.com/SAGAtheme/LeftWM)
+- [Xresources](https://github.com/SAGAtheme/Xresources)
+- [Firefox](https://github.com/SAGAtheme/Firefox)
+- [Spotify](https://github.com/SAGAtheme/Spotify)
+- [Obsidian](https://github.com/SAGAtheme/nvchad)
+- [Gedit](https://github.com/SAGAtheme/Gedit)
+- [Logseq](https://github.com/SAGAtheme/Logseq)
+- [SAGAfont](https://github.com/SAGAtheme/nvchad)
+
+## Showcase
+A list of complete setups using the SAGA colourscheme along with screenshots can be found [here](https://github.com/SAGAtheme/Showcase). If you want to submit your setup feel free to open a pull request or create an issue. 
+
 ### Notes
 This theme is a small personal project of mine. I will continue to add theme templates for applications I find useful. If you want to create and share a theme using the SAGA palette for an application that does not yet have one you can submit a [PR](https://github.com/SAGAtheme/SAGA/pulls). 
 
