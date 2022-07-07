@@ -22,7 +22,7 @@
 | ![#dccff2](assets/palette/dccff2.png)    | C13   | `#dccff2` | `220,207,242` | `262.3,57.4%,88%`  | `9,14,0,5` |
 | ![#e6d9fc](assets/palette/e6d9fc.png)   | C14  | `#e6d9fc` | `230,217,252` | `262.3,85.4%,92%`  | `9,14,0,1`  |
 | ![#f0e3ff](assets/palette/f0e3ff.png)    | C15  | `#f0e3ff` | `240,227,255` | `267.9,100%,94.5%` | `6,11,0,0` |
-| ![#faedff](assets/palette/faedff.png)     | C16   | `#faedff` | `250,237,255` | `283.3,100%,96.5%` | `2,7,0,0`  |
+| ![#faedff](assets/palette/fff7ff.png)     | C16   | `#fff7ff` | `255,247,255` | `300,100%,98.4%` | `0,3,0,0`  |
 
 </div>	
 
