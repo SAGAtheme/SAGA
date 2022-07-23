@@ -5,6 +5,7 @@
 <h4 align="center">A dark theme with colourful shades of pastel </br> </h4> </br>
 <div align="center">
 
+
 |                                 COLOUR                                        | NAME     | HEX       | RGB             | HSL             | CMYK               |  
 | ----------------------------------------------------------------------- | -------- | --------- | --------------- | --------------- | ------------------ |
 | ![#05080a](assets/palette/05080a.png)      | C1    | `#05080a` | `5,8,10` | `204,33.3%,2.9%` | `50,20,0,96`  |
@@ -26,6 +27,7 @@
 
 </div>	
 
+
 ## Ports
 - [NvChad](https://github.com/SAGAtheme/nvchad)
 - [Rofi](https://github.com/SAGAtheme/Rofi)
@@ -37,7 +39,7 @@
 - [Obsidian](https://github.com/SAGAtheme/nvchad)
 - [Gedit](https://github.com/SAGAtheme/Gedit)
 - [Logseq](https://github.com/SAGAtheme/Logseq)
-- [SAGAfont](https://github.com/SAGAtheme/nvchad)
+- [Font](https://github.com/SAGAtheme/nvchad)
 
 ## Showcase
 A list of complete setups using the SAGA colourscheme along with screenshots can be found [here](https://github.com/SAGAtheme/Showcase). If you want to submit your setup feel free to open a pull request or create an issue. 
