@@ -30,6 +30,8 @@
 
 
 ## Ports
+- [Wezterm](https://github.com/SAGAtheme/Wezterm)
+- [Starship](https://github.com/SAGAtheme/)
 - [NvChad](https://github.com/SAGAtheme/nvchad)
 - [Rofi](https://github.com/SAGAtheme/Rofi)
 - [Cava](https://github.com/SAGAtheme/Cava)
