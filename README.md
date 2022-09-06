@@ -44,9 +44,6 @@
 - [Logseq](https://github.com/SAGAtheme/Logseq)
 - [Font](https://github.com/SAGAtheme/nvchad)
 
-## Showcase
-A list of complete setups using the SAGA colourscheme along with screenshots can be found [here](https://github.com/SAGAtheme/Showcase). If you want to submit your setup feel free to open a pull request or create an issue. 
-
 ## Contributing
 If you want to create or share a theme using the SAGA palette for an application that does not yet have one you can submit a [PR](https://github.com/SAGAtheme/SAGA/pulls). 
 
