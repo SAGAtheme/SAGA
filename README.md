@@ -2,30 +2,31 @@
 	SAGA </br>
 	
 </h2> 
-<h4 align="center">A dark theme with colourful shades of pastel </br> </h4> </br>
+<h4 align="center">A dark theme with colourful shades of pastel</br></h4></br>
 <div align="center">
 
 
 |                                 COLOUR                                        | NAME     | HEX       | RGB             | HSL             | CMYK               |  
 | ----------------------------------------------------------------------- | -------- | --------- | --------------- | --------------- | ------------------ |
-| ![#05080a](assets/palette/05080a.png)      | C1    | `#05080a` | `5,8,10` | `204,33.3%,2.9%` | `50,20,0,96`  |
-| ![#0A0D0F](assets/palette/0A0D0F.png)    | C2 | `#0A0D0F` | `10,13,15`    | `204,20%,4.9%`  | `33,13,0,94` |
-| ![#0f1214](assets/palette/0f1214.png)    |  C3 | `#0f1214` | `15,18,20`    | `204,14.3%,6.9%`  | `25,10,0,92` |
-| ![#141719](assets/palette/141719.png)      |  C4 | `#141719` | `20,23,25` | `204,11.1%,8.8%`   | `20,8,0,90` |
-| ![#fad5d5](assets/palette/fad5d5.png)     | C5      | `#fad5d5` | `245,208,208` | `0,64.9%,88.8%` | `0,15,15,4` |
-| ![#ffc2d0](assets/palette/ffc2d0.png)    | C6  | `#ffc2d0` | `255,194,208` | `346.2,100%,88%` | `0,24,18,0`  |
-| ![#ffb7b2](assets/palette/ffb7b2.png)    | C7    | `#ffb7b2` | `255,183,178` | `3.9,100%,84.9%` | `0,28,30,0`  |
-| ![#b9fdcd](assets/palette/b9fdcd.png)     | C8  | `#b9fdcd` | `185,253,205` | `137.6,94.4%,85.9%` | `27,0,19,1`  |
-| ![#ffffc6](assets/palette/ffffc6.png)   | C9 | `#ffffc6` | `255,255,198` | `60,100%,88.8%` | `0,0,22,0` |
-| ![#ffe1b1](assets/palette/ffe1b1.png)   | C10 | `#ffe1b1` | `255,225,177` | `36.9,100%,84.7%` | `0,12,31,0` |
-| ![#9eecdf](assets/palette/9eecdf.png)     | C11      | `#9eecdf` | `158,236,223` | `170,67.2%,77.3%` | `33,0,6,7` |
-| ![#93e6f5](assets/palette/93e6f5.png)    | C12   | `#93e6f5` | `147,230,245` | `189.2,83.1%,76.9%`  | `40,6,0,4` |
-| ![#dccff2](assets/palette/dccff2.png)    | C13   | `#dccff2` | `220,207,242` | `262.3,57.4%,88%`  | `9,14,0,5` |
-| ![#e6d9fc](assets/palette/e6d9fc.png)   | C14  | `#e6d9fc` | `230,217,252` | `262.3,85.4%,92%`  | `9,14,0,1`  |
-| ![#f0e3ff](assets/palette/f0e3ff.png)    | C15  | `#f0e3ff` | `240,227,255` | `267.9,100%,94.5%` | `6,11,0,0` |
-| ![#fff7ff](assets/palette/fff7ff.png)     | C16   | `#fff7ff` | `255,247,255` | `300,100%,98.4%` | `0,3,0,0`  |
+| ![#05080a](assets/palette/05080a.png)      | **Liquorice**     | `#05080a` | `5,8,10` | `204,33.3%,2.9%` | `50,20,0,96`  |
+| ![#0A0D0F](assets/palette/0A0D0F.png)    | **Vampire Black** | `#0A0D0F` | `10,13,15`    | `204,20%,4.9%`  | `33,13,0,94` |
+| ![#0f1214](assets/palette/0f1214.png)    |  **Charcoal** | `#0f1214` | `15,18,20`    | `204,14.3%,6.9%`  | `25,10,0,92` |
+| ![#141719](assets/palette/141719.png)      |  **Asphalt** | `#141719` | `20,23,25` | `204,11.1%,8.8%`   | `20,8,0,90` |
+| ![#ffe1e1](assets/palette/ffe1e1.png)     | **Misty Rose**      | `#ffe1e1` | `255,225,225` | `0,100%,94.1%` | `0,12,12,0` |
+| ![#ffc2df](assets/palette/ffc2df.png)    | **Cotton Candy**   | `#ffc2df` | `255,194,223` | `331.5,100%,88%`  | `0,24,13,0` |
+| ![#ffaecb](assets/palette/ffaecb.png)     | **Lavender Pink** | `#ffaecb` | `255,174,203` | `338.5,100%,84.1%` | `0,32,20,0`  |
+| ![#ff9fbc](assets/palette/ff9fbc.png)     | **Pastel Magenta**  | `#ff9fbc` | `255,159,188` | `341.9,100%,81.2%` | `0,38,26,0`  |
+| ![#ffc79b](assets/palette/ffc79b.png)   | **Pastel Peach** | `#ffc79b` | `255,199,155` | `26.4,100%,80.4%` | `0,22,39,0` |
+| ![#fff6c3](assets/palette/fff6c3.png)   | **Blond**| `#fff6c3` | `255,246,195` | `51,100%,88.2%` | `0,4,24,0` |
+| ![#baf7b5](assets/palette/baf7b5.png)     | **Menthol**      | `#baf7b5` | `186,247,181` | `115.5,80.5%,83.9%` | `25,0,27,3` |
+| ![#b2fff3](assets/palette/b2fff3.png)    | **Celeste**  | `#b2fff3` | `178,255,243` | `170.6,100%,84.9%`  | `30,0,5,0` |
+| ![#dfbaff](assets/palette/dfbaff.png)    | **Mauve**    | `#dfbaff` | `223,186,255` | `272.2,100%,86.5%` | `13,27,0,0`  |
+| ![#f3ceff](assets/palette/f3ceff.png)    | **Pale Lavender**  | `#f3ceff` | `243,206,255` | `285.3,100%,90.4%`  | `5,19,0,0` |
+| ![#ffe2ff](assets/palette/ffe2ff.png)   | **Pink Lace** | `#ffe2ff` | `255,226,255` | `300,100%,94.3%`  | `0,11,0,0`  |
+| ![#ffecff](assets/palette/ffecff.png)    | **Magnolia**  | `#ffecff` | `255,236,255` | `300,100%,96.3%` | `0,7,0,0` |
+| ![#fff6ff](assets/palette/fff6ff.png)     | **Snow**  | `#fff6ff` | `255,246,255` | `300,100%,98.2%` | `0,4,0,0`  |
 
-</div>	
+</div>
 
 
 ## Ports
