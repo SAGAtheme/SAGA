@@ -44,6 +44,12 @@
 - [Gedit](https://github.com/SAGAtheme/Gedit)
 - [Logseq](https://github.com/SAGAtheme/Logseq)
 - [Font](https://github.com/SAGAtheme/nvchad)
+- [VScode](https://github.com/SAGAtheme/vscode)
+- [GTK](https://github.com/SAGAtheme/GTK)
+- [Starship](https://github.com/SAGAtheme/starship)
+- [Wezterm](https://github.com/SAGAtheme/wezterm)
+
+
 
 ## Contributing
 If you want to create or share a theme using the SAGA palette for an application that does not yet have one you can submit a [PR](https://github.com/SAGAtheme/SAGA/pulls). 
